@@ -1,2 +1,2 @@
 # clock
-Clock in python
+Stupid Clock in python
